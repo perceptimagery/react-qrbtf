@@ -18,10 +18,10 @@
   },
   "dependencies": {
     "lodash": "^4.17.15",
-    "react": "^16.13.1",
+    "react": "^17.0.2",
     "react-css": "0.0.2",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "4.0.3",
     "reactcss": "^1.2.3"
   },
   "scripts": {
